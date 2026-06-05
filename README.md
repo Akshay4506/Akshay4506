@@ -131,4 +131,3 @@
 ---
 
 ⭐ Always open to collaborating on impactful software, AI, and research projects.
-```
