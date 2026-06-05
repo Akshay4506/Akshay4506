@@ -28,7 +28,7 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science Engineering student at Ramaiah Institute of Technology
-- 💡 Interested in Software Engineering, Machine Learning, and Distributed Systems
+- 💡 I enjoy working on digital solutions from web platforms to network simulations where clean code meets real-world impact.
 - 🚀 Building scalable applications, AI-driven solutions, and research-oriented projects
 
 ---
@@ -124,7 +124,6 @@
 ## 🏆 Achievements
 
 - 🚀 Samsung Research Institute - Research & Development Intern
-- 📚 Maintaining a CGPA of 9.25 in Computer Science Engineering
 - 💡 Actively building software, AI, blockchain, and distributed systems projects
 - 🔬 Working on research papers in Machine Learning and Blockchain domains
 
