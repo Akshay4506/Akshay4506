@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,5,12,20,24&text=Akshay%20Kubireddi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering&descAlignY=62&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,5,12,20,24&text=Kubireddi%20Akshay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering&descAlignY=62&descSize=18" />
 </p>
 
 <p align="center">
@@ -118,6 +118,20 @@
   - Decentralized renewable energy management
 - 🔗 GitHub: https://github.com/Akshay4506/energyDNA
 - 📄 Research Paper: In Preparation
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshay4506&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay4506&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay4506&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
