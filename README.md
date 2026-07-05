@@ -124,13 +124,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshay4506&show_icons=true&theme=tokyonight"/>
-
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay4506&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay4506&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
